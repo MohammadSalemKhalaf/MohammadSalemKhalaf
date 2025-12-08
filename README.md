@@ -20,13 +20,13 @@
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/mohammad-bashar-khalaf" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad bashar khalaf" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:mohammadkhalaf3hfg@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
   <a href="https://github.com/[Your-Github-Username]" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="github" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
@@ -62,5 +62,3 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-
----
