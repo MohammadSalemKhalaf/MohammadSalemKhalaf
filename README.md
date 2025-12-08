@@ -19,13 +19,13 @@
 
 ### 🔗 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/mohammad-bashar-khalaf" target="blank">
+  <a href="http://www.linkedin.com/in/mohammad-bashar-khalaf-921442399" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:mohammadkhalaf3hfg@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://github.com/[Your-Github-Username]" target="blank">
+  <a href="https://github.com/MohammadSalemKhalaf" target="blank">
     <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" />
   </a>
 </p>
