@@ -3,25 +3,32 @@
 
 <p align="center">
   <strong>Backend Engineer | Frontend Developer | Problem Solver</strong><br>
-  I build scalable, secure, and modern web applications using ASP.NET Core, React.js, and Node.js.
+  I build scalable, secure, and modern web applications using ASP.NET Core, React.js, Node.js, and Laravel.
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 💻 **Full Stack Developer** with hands-on experience in building end-to-end web solutions.
-- 🧠 Strong background in **backend engineering**, **API design**, and **performance optimization**.
-- 🛠️ Skilled in **N-Tier & Clean Architecture**, **RESTful APIs**, and **database design**.
-- 📈 Passionate about **clean code**, **Agile methodologies**, and **continuous learning**.
-- 🌍 Fluent in **Arabic** (Native) and **English** (Very Good).
+- 💻 <strong>Full Stack Developer</strong> with hands-on experience in building end-to-end web solutions.
+- 🧠 Strong background in <strong>backend engineering</strong>, <strong>API design</strong>, and <strong>performance optimization</strong>.
+- 🛠️ Skilled in <strong>N-Tier & Clean Architecture</strong>, <strong>RESTful APIs</strong>, and <strong>database design</strong>.
+- ⚡ Experienced with <strong>ASP.NET Core</strong>, <strong>Laravel</strong>, <strong>React.js</strong>, and <strong>Vue.js</strong>.
+- 📈 Passionate about <strong>clean code</strong>, <strong>Agile methodologies</strong>, and <strong>continuous learning</strong>.
+- 🌍 Fluent in <strong>Arabic</strong> (Native) and <strong>English</strong> (Very Good).
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="mailto:mohammadkhalaf3hfg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MohammadSalemKhalaf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="http://www.linkedin.com/in/mohammad-bashar-khalaf-921442399"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohammadkhalaf3hfg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohammadSalemKhalaf">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="http://www.linkedin.com/in/mohammad-bashar-khalaf-921442399">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
