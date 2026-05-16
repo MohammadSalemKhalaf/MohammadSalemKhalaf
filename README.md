@@ -79,8 +79,10 @@ Features include:
 * Student progress tracking
 * Multi-role educational platform
 * Interactive learning workflows
+  
 🔗 Repository:
 https://github.com/MohammadSalemKhalaf/Learnova
+
 ---
 
 ## 🏢 HR Management Platform
@@ -123,9 +125,10 @@ Features include:
 * WhatsApp integrations
 * Multi-tenant architecture
 * Business management workflows
-  
-🔗 Repository:
+
+  🔗 Repository:
 https://github.com/MohammadSalemKhalaf/NovaPlus
+
 ---
 
 # 📜 Certifications
