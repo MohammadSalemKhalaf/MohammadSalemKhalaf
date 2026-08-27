@@ -1,158 +1,59 @@
-<h1 align="center">👋 Hi, I'm Mohammad Khalaf</h1>
+<h1 align="center">Hi, I'm Mohammad Khalaf 👋</h1>
 
-<h3 align="center">
-Backend-Focused Full Stack Developer
-</h3>
+<h3 align="center">Full Stack Developer — ASP.NET Core, Flutter & React.js</h3>
 
 <p align="center">
-Laravel & Node.js • React & Flutter • AI-Powered Platforms
+  Also building with Laravel &amp; Node.js · Computer Engineering, An-Najah National University
+</p>
+
+<p align="center">
+  <a href="mailto:mohammadkhalaf3hfg@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/mohammad-khalaf-921442399/">LinkedIn</a>
 </p>
 
 ---
 
-# 🚀 About Me
+### About
 
-Computer Engineering student passionate about building scalable backend systems, AI-powered platforms, and modern full stack applications.
-
-Focused on clean architecture, RESTful APIs, system design, and building real-world production-ready platforms using Laravel, Node.js, React, React Native, Vue.js, and Flutter.
+Full Stack Developer specializing in ASP.NET Core backend development, Flutter mobile development, and React.js frontend development, with additional experience in Laravel and Node.js. I focus on clean architecture, RESTful API design, and shipping production-ready platforms — not just implementing specs, but thinking through the product problem behind them.
 
 ---
 
-# 🛠️ Tech Stack
+### Tech Stack
 
-## ⚙️ Backend
-
-* Laravel
-* Node.js (Express)
-* REST APIs
-* JWT Authentication
-
-## 🎨 Frontend
-
-* React.js
-* React Native
-* Vue.js
-* Flutter
-* Tailwind CSS
-* Bootstrap
-
-## 🗄️ Database
-
-* MySQL
-* MariaDB
-* MongoDB
+**Backend** — ASP.NET Core · Laravel · Node.js (Express) · RESTful APIs
+**Frontend & Mobile** — Flutter · React.js · Vue.js
+**Databases** — SQL Server · MySQL · PostgreSQL · MongoDB
+**DevOps & Infrastructure** — VPS/PaaS setup & server management · Docker · Git
+**AI & Integration** — RAG Systems · LLM Integration · Prompt Engineering
 
 ---
 
-# 📌 Featured Projects
+### Featured Projects
 
-## 🏫 Austath Fanan Platform
+#### 🧾 Fatora Pro — Paperless Invoicing & Mini-ERP Platform
+*Private project*
+A cross-platform invoicing app (iPad/iOS & Android) replacing paper invoices for businesses and field sales teams, with a hierarchical multi-tenant structure — platform admin manages business sub-accounts, each managing its own sales reps. Offline-first with automatic PostgreSQL sync on reconnect, bilingual EN/AR with true RTL mirroring including Bluetooth/Wi-Fi thermal receipt printing, Firebase push notifications, Google Maps delivery route planning, and a full subscription/trial system.
+**Stack:** Flutter · ASP.NET Core · PostgreSQL · Firebase · SQLite
 
-Founder & Owner of one of the first large-scale educational platforms in Palestine for school students from Grade 1 to Tawjihi.
+#### 🏫 Austath Fanan — Educational Platform
+Owner and active developer of one of the first large-scale K-12 educational platforms in Palestine, serving **20,000+ students** from Grade 1 through Tawjihi — video lectures, quizzes, past-exam solutions, and subscription-based access.
+**Stack:** Laravel · Flutter
+🔗 [austathfanan.com](https://austathfanan.com)
 
-The platform successfully serves more than 20,000+ students and includes:
-
-* Recorded video lectures
-* Electronic quiz system
-* Solved previous years questions
-* Student communication & discussion system
-* Subscription & payment system
-* Full educational management workflows
-
-Built using Laravel & Flutter with scalable backend architecture and deployed as mobile applications on both App Store & Google Play.
-
-🔗 Platform:
-https://austathfanan.com/
+#### 🎓 Learnova — AI-Powered Educational Platform *(Graduation Project)*
+An AI-powered LMS for schools and academies with multi-tenant architecture — RAG-based learning tools (AI quizzes, flashcards, mind maps, AI mentor), semantic search, and real-time analytics via FastAPI microservices and a Qdrant vector database.
+**Stack:** React.js · Node.js · Prisma · MariaDB · FastAPI · Qdrant
+🔗 [github.com/MohammadSalemKhalaf/Learnova](https://github.com/MohammadSalemKhalaf/Learnova)
 
 ---
 
-## 🎓 Learnova LMS
+### Certifications
 
-AI-powered learning management platform built using React, React Native, and Node.js with modern scalable architecture.
-
-Features include:
-
-* AI Tutor & AI-assisted learning
-* RAG-based lesson assistant
-* Real-time chat system
-* Course, subject & lesson management
-* Student progress tracking
-* Multi-role educational platform
-* Interactive learning workflows
-  
-🔗 Repository:
-https://github.com/MohammadSalemKhalaf/Learnova
+- Mastering ASP.NET Core: Concepts to Production-Ready APIs — Metigator
+- Frontend Developer — Knowledge Academy
+- ASP.NET Backend Development — Knowledge Academy
 
 ---
 
-## 🏢 HR Management Platform
-
-Complete AI-powered HR & recruitment management platform built using Laravel & Vue.js.
-
-Core modules include:
-
-* Authentication & RBAC
-* Employee & department management
-* Attendance tracking
-* Leave requests & approvals
-* Salary & payroll workflows
-* Reporting & analytics
-* RESTful backend architecture
-
-Advanced recruitment features include:
-
-* Job seeker role & company job applications
-* AI-powered CV analysis & scoring
-* Automatic skill extraction from uploaded resumes
-* Instant AI-based candidate evaluation
-* Automated acceptance/rejection workflows
-* Automatic employee account creation after candidate approval
-
-🔗 Repository:
-https://github.com/MohammadSalemKhalaf/HR
-
----
-
-## 🛒 NovaPlus
-
-AI-powered multi-tenant commerce platform built using Laravel & Flutter.
-
-Features include:
-
-* QR ordering system
-* AI-assisted customer interaction
-* Merchant dashboards
-* WhatsApp integrations
-* Multi-tenant architecture
-* Business management workflows
-
-  🔗 Repository:
-https://github.com/MohammadSalemKhalaf/NovaPlus
-
----
-
-# 📜 Certifications
-
-* Full Stack Development — Knowledge Academy
-
----
-
-# 📚 Core Concepts
-
-* Clean Architecture
-* RESTful API Design
-* OOP & SOLID Principles
-* Database Design
-* Full Stack Development
-* Problem Solving
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: [mohammadkhalaf3hfg@gmail.com](mailto:mohammadkhalaf3hfg@gmail.com)
-🔗 LinkedIn: [www.linkedin.com/in/mohammad-khalaf-921442399/](http://www.linkedin.com/in/mohammad-khalaf-921442399/)
-
----
-
-⭐ Always building, always learning.
+<p align="center"><sub>Always building, always learning.</sub></p>
