@@ -35,6 +35,7 @@ Full Stack Developer specializing in ASP.NET Core backend development, Flutter m
 *Private project*
 A cross-platform invoicing app (iPad/iOS & Android) replacing paper invoices for businesses and field sales teams, with a hierarchical multi-tenant structure — platform admin manages business sub-accounts, each managing its own sales reps. Offline-first with automatic PostgreSQL sync on reconnect, bilingual EN/AR with true RTL mirroring including Bluetooth/Wi-Fi thermal receipt printing, Firebase push notifications, Google Maps delivery route planning, and a full subscription/trial system.
 **Stack:** Flutter · ASP.NET Core · PostgreSQL · Firebase · SQLite
+
 🔗 [ftorapro.com](https://ftorapro.com)
 
 #### 🏫 Austath Fanan — Educational Platform
